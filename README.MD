@@ -63,7 +63,7 @@ npm run dev
 ```
 
 ### 4. Open in Browser
-Visit `http://localhost:5173` and search for a city.
+Visit `https://pakistanweatherapp.netlify.app/ ` and search for a city.
 
 ## What I Learned
 
