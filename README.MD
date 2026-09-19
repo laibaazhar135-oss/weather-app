@@ -24,7 +24,7 @@ A simple weather app to search and view live weather details for Pakistani citie
 ![Weather app search page](./screenshots/weather-app-interface.png)
 
 ### Weather Result Display
-![Weather app showing results](./screenshots/weather-app-result.png)
+![Weather app showing results](./screenshots/weather-app-results.png)
 
 ## API Endpoints
 
