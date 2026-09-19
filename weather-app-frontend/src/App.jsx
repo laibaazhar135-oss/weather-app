@@ -12,7 +12,7 @@ function App(){
         setLoading(true);
        
         try{
-            const responce = await fetch('http://localhost:5000/api/weather',{
+            const responce = await fetch('https:weather-app-production-edd6.up.railway.app/api/weather',{
                 method:'POST',
                 headers:{
                     "Content-type":"application/json"
