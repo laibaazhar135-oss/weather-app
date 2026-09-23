@@ -65,7 +65,7 @@ npm run dev
 ### 4. Open in Browser
 Visit `https://pakistanweatherapp.netlify.app/ ` and search for a city.
 
-## What I Learned
+## What I Learned...
 
 - Building a full-stack app with separate frontend/backend architecture
 - Working with external APIs and environment variables for security
